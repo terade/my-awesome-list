@@ -6,6 +6,8 @@ Definition of awesome: free learning resource
 ## Ruby
 - [i Love Ruby](https://i-love-ruby.gitlab.io/)
 - [Ruby Is For Fun](https://rubyandrails.info/books/ruby-is-for-fun)
+- [Introduction to parser combinators](https://blog.jcoglan.com/2017/07/06/introduction-to-parser-combinators/)
+  more focused on the parser combinators part rather than ruby 
 
 ## Haskell
 - [Learn you a Haskell for Great Good](http://www.learnyouahaskell.com/)

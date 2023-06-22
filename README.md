@@ -20,3 +20,6 @@ Definition of awesome: free learning resource
 
 ## Terminal
 - [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read)
+
+## Math
+- [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/)

@@ -3,6 +3,7 @@ Definition of awesome: free learning resource
 
 ## Rust
 - [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
+- [Learn Rust With Entirely Too Many Linked List](https://rust-unofficial.github.io/too-many-lists/)
 ## Ruby
 - [i Love Ruby](https://i-love-ruby.gitlab.io/)
 - [Ruby Is For Fun](https://rubyandrails.info/books/ruby-is-for-fun)

@@ -4,6 +4,12 @@ Definition of awesome: free learning resource
 ## Rust
 - [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
 - [Learn Rust With Entirely Too Many Linked List](https://rust-unofficial.github.io/too-many-lists/)
+## Go
+- [Go 101](https://go101.org/article/101.html#index)
+- [Essential Go](https://www.programming-books.io/essential/go/)
+- [An Introduction To Programming In Go](https://www.golang-book.com/books/intro)
+- [Learning Go](https://miek.nl/go/)
+- [Let's learn Go](https://go-book.readthedocs.io/en/latest/)
 ## Ruby
 - [i Love Ruby](https://i-love-ruby.gitlab.io/)
 - [Ruby Is For Fun](https://rubyandrails.info/books/ruby-is-for-fun)
@@ -30,3 +36,4 @@ Definition of awesome: free learning resource
 
 ## Various
 - [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
+- [Essential Programming Books](https://www.programming-books.io/)

@@ -4,6 +4,7 @@ Definition of awesome: free learning resource
 ## Rust
 - [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
 - [Learn Rust With Entirely Too Many Linked List](https://rust-unofficial.github.io/too-many-lists/)
+- [Ratatui Book](https://ratatui.rs/index.html) tui
 ## Go
 - [Go 101](https://go101.org/article/101.html#index)
 - [Essential Go](https://www.programming-books.io/essential/go/)

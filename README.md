@@ -24,9 +24,14 @@ Definition of awesome: free learning resource
 
 ## C
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
+- [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/) Also relevant for other programming langs
 
 ## Common Lisp
 - [Practical Common Lisp](https://gigamonkeys.com/book/)
+
+## OS
+- [OsDev.org](https://wiki.osdev.org/Main_Page)
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## Terminal
 - [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read)
@@ -38,3 +43,6 @@ Definition of awesome: free learning resource
 ## Various
 - [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 - [Essential Programming Books](https://www.programming-books.io/)
+
+## Blogs
+- [Eli Bendersky's website](https://eli.thegreenplace.net/archives/all)

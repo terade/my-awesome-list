@@ -5,7 +5,6 @@ Definition of awesome: free learning resource
 - [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
 - [Learn Rust With Entirely Too Many Linked List](https://rust-unofficial.github.io/too-many-lists/)
 - [Ratatui Book](https://ratatui.rs/index.html) tui
--  
 ## Go
 - [Go 101](https://go101.org/article/101.html#index)
 - [Essential Go](https://www.programming-books.io/essential/go/)
@@ -24,7 +23,9 @@ Definition of awesome: free learning resource
 - [A Byte of Python](https://python.swaroopch.com/)
 - [The Hitchhiker's Guide to Python!](https://docs.python-guide.org/)
 - [Inferential Thinking](https://inferentialthinking.com/chapters/intro)
-
+## Perl
+- [Learn Perl in about 2 hours 30 minutes](https://qntm.org/perl_en)
+- [Perl101](https://perl101.org/)
 ## Haskell
 - [Learn you a Haskell for Great Good](http://www.learnyouahaskell.com/)
 

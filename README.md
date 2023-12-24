@@ -27,6 +27,9 @@ Definition of awesome: free learning resource
 - [Learn Perl in about 2 hours 30 minutes](https://qntm.org/perl_en)
 - [Perl101](https://perl101.org/)
 - [Perl Tutorial](https://www.perltutorial.org/)
+- [Perl Maven](https://perlmaven.com/perl-tutorial)
+- [Higher-Order Perl](https://hop.perl.plover.com/book/pdf/HigherOrderPerl.pdf)
+- [Perl Library](https://www.perl.org/books/library.html)
 ## Haskell
 - [Learn you a Haskell for Great Good](http://www.learnyouahaskell.com/)
 

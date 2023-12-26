@@ -32,6 +32,7 @@ Definition of awesome: free learning resource
 - [Perl Library](https://www.perl.org/books/library.html)
 - [Modern Perl](https://onyxneon.com/downloads/modern_perl_ebook.pdf)
 - [Extreme Perl](https://www.extremeperl.org/bk/home)
+- [Data Munging with Perl](https://datamungingwithperl.com/dmp/)
 ## Haskell
 - [Learn you a Haskell for Great Good](http://www.learnyouahaskell.com/)
 
@@ -42,7 +43,10 @@ Definition of awesome: free learning resource
 
 ## Common Lisp
 - [Practical Common Lisp](https://gigamonkeys.com/book/)
-
+## Lua
+- [Programming in Lua](https://www.lua.org/pil/contents.html)
+## Bash
+- [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
 ## OS
 - [OsDev.org](https://wiki.osdev.org/Main_Page)
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
@@ -50,7 +54,7 @@ Definition of awesome: free learning resource
 ## Terminal
 - [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read)
 - [Learn Git Branching](https://learngitbranching.js.org/)
-
+- [Makefile Tutorial](https://makefiletutorial.com/)
 ## Math
 - [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/)
 

@@ -30,6 +30,8 @@ Definition of awesome: free learning resource
 - [Perl Maven](https://perlmaven.com/perl-tutorial)
 - [Higher-Order Perl](https://hop.perl.plover.com/book/pdf/HigherOrderPerl.pdf)
 - [Perl Library](https://www.perl.org/books/library.html)
+- [Modern Perl](https://onyxneon.com/downloads/modern_perl_ebook.pdf)
+- [Extreme Perl](https://www.extremeperl.org/bk/home)
 ## Haskell
 - [Learn you a Haskell for Great Good](http://www.learnyouahaskell.com/)
 
@@ -56,6 +58,9 @@ Definition of awesome: free learning resource
 - [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 - [Essential Programming Books](https://www.programming-books.io/)
 - [The Pitchfork Layout (PFL)](https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/vector-of-bool/pitchfork/develop/data/spec.bs) (for C and C++)
+- [Principles of Algorithmic Problem Solving](https://www.csc.kth.se/~jsannemo/slask/main.pdf)
+- [The Architecture of Open Source Applications](https://aosabook.org/en/)
+- [Regular Expressions for Regular Folk](https://refrf.dev/)
 
 ## Blogs
 - [Eli Bendersky's website](https://eli.thegreenplace.net/archives/all)

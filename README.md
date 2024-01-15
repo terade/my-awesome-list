@@ -68,3 +68,6 @@ Definition of awesome: free learning resource
 
 ## Blogs
 - [Eli Bendersky's website](https://eli.thegreenplace.net/archives/all)
+- [Something like a Home page](https://akkadia.org/drepper/)
+## Linux
+- [The Linux Documentation Project](https://tldp.org/)

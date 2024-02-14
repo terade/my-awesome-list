@@ -65,6 +65,7 @@ Definition of awesome: free learning resource
 - [Principles of Algorithmic Problem Solving](https://www.csc.kth.se/~jsannemo/slask/main.pdf)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/)
 - [Regular Expressions for Regular Folk](https://refrf.dev/)
+- [The Comprehensive Latex Symbol List](https://www.math.kent.edu/~malexand/Latex/Guides/symbols-letter.pdf)
 
 ## Blogs
 - [Eli Bendersky's website](https://eli.thegreenplace.net/archives/all)

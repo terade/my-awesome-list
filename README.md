@@ -51,6 +51,10 @@ Definition of awesome: free learning resource
 - [OsDev.org](https://wiki.osdev.org/Main_Page)
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
+## Databases
+- [Database Design](https://opentextbc.ca/dbdesign01/)
+- [The Querynomicon](https://gvwilson.github.io/sql-tutorial/)
+
 ## Terminal
 - [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read)
 - [Learn Git Branching](https://learngitbranching.js.org/)
@@ -72,3 +76,4 @@ Definition of awesome: free learning resource
 - [Something like a Home page](https://akkadia.org/drepper/)
 ## Linux
 - [The Linux Documentation Project](https://tldp.org/)
+- [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world/)

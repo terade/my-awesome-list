@@ -50,6 +50,7 @@ Definition of awesome: free learning resource
 ## OS
 - [OsDev.org](https://wiki.osdev.org/Main_Page)
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [RISC-V Assembly Programming](https://www.robertwinkler.com/projects/riscv_book/)
 
 ## Databases
 - [Database Design](https://opentextbc.ca/dbdesign01/)
@@ -71,6 +72,7 @@ Definition of awesome: free learning resource
 - [Regular Expressions for Regular Folk](https://refrf.dev/)
 - [The Comprehensive Latex Symbol List](https://ctan.joethei.xyz/info/symbols/comprehensive/symbols-a4.pdf)
 - [Crafting Interpreters](http://craftinginterpreters.com/contents.html)
+- [Robert Winkler Projects](https://www.robertwinkler.com/projects/)
 
 ## Blogs
 - [Eli Bendersky's website](https://eli.thegreenplace.net/archives/all)
